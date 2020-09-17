@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "453784798045",
+    "firebase_url": "https://test-push-notification-e08fa.firebaseio.com",
+    "project_id": "test-push-notification-e08fa",
+    "storage_bucket": "test-push-notification-e08fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453784798045:android:10088bf4147b0b9ca8deb4",
+        "android_client_info": {
+          "package_name": "com.freddy.flutterpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453784798045-699ak2kl5glvs5e47fc5uht673dtvb7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7GpoiwC_ew8WbuodAsTZunjpXn5Ou8YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453784798045-699ak2kl5glvs5e47fc5uht673dtvb7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
